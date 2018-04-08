@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Heart</string>
+    <string name="application_name">陕西师范大学</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_share">Share</string>
+    <string name="title_activity_music">Heart</string>
+
+    <string name="music_title">title</string>
+    <string name="music_singer">singer</string>
+    <string name="music_size">size</string>
+    <string name="music_duration">duration</string>
+    <string name="music_cancle">close</string>
+    <string name="title_activity_main">MainActivity</string>
+</resources>
